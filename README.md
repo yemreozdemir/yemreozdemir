@@ -1,4 +1,8 @@
-### Hi there 👋
+
+                                             Hi 👋, I'm Yunus Emre ÖZDEMİR
+
+                           A passionate Software Development Engineer in Test from TURKEY
+
 
 Here are some ideas to get you started:
 
